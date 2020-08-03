@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, my name is Ward 👋
 
+I'm a product owner at [Firely](https://fire.ly), helping our customers bringing [FHIR](https://hl7.org/fhir) to life :fire:
+
+- :link: Learn more at [wardweistra.nl](https://www.wardweistra.nl)
+- :email: Firely: ward@fire.ly - Personal: w@rdweistra.nl
 <!--
 **wardweistra/wardweistra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
